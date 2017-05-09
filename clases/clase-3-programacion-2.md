@@ -13,7 +13,7 @@ Plantear el problema de un Robot que tiene que encontrar un objeto escondido en 
 - hay camino a la der?
 - está el objeto?
 
-Una ejemplo en seudocódigo:
+Un ejemplo en seudocódigo:
 
 ```
 "repetir mientras no" encontreObjeto()
