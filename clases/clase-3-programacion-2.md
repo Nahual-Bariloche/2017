@@ -1,4 +1,4 @@
-#Clase 3 - Programación segunda clase
+# Clase 3 - Programación segunda clase
 
 ## Conexión
 
@@ -57,7 +57,7 @@ Pasar [video Ética en la informática](https://www.youtube.com/watch?v=lYW3FoTa
 
  2) Mini retro: qué te gustó y que no y qué te gustaría ver la próxima clase, post it en el pizarrón          
  
- Que me gustó | Que no me gustó  | que quiero ver la próxima clase
+ Que me gustó | Que no me gustó  | Que más quiero ver
  --- | --- | ---
   |  |
   |  |
