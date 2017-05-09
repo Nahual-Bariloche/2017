@@ -27,6 +27,28 @@ Un ejemplo en seudocódigo:
 
 La idea es que piensen sobre que no alcanzan con esas instrucciones y que necesitan una forma de preguntar / sensar (if) y una forma de repetir instrucciones (while/for). No es requisito encontrar la solución, sino sólo reflexionar sobre la necesidad de estas instrucciones.
 
+## Conexión - Alternativa
+
+¡ Asustar a Boo !
+
+![Boo](laberinto.jpg)
+
+Sullivan (monstruo) tiene que asustar a Boo (la beba), para eso debe recorrer puerta a puerta y asustarla cuando la encuentre. 
+
+**Instrucciones para Sullivan**
+
+- avanzar: Sullivan solo puede avanzar de puerta en puerta.
+- asustar: Entra a la habitación y asusta a Boo. Solo puede asustar 1 vez y finaliza el trabajo.
+- está Boo?: Sullivan espía por la cerradura de la puerta para ver si esta Boo. (SI/NO)
+
+1. Sullivan ve a Boo que entra en la 4ta puerta. 
+2. Sullivan no sabe en que puerta entró Boo, sin embargo puede espiar por la cerradura para ver si está o no. (Condicional)
+3. Wazowski logro una manera de encontrar y asustar a Boo con solo 3 comandos/ordenes a Sullivan.  (Ciclo)
+```
+"repetir mientras no" está Boo?
+     avanzar
+asustar 
+```
 ## Concepto
 
 **Tipos de instrucciones:**
